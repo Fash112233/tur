@@ -85,3 +85,5 @@ termux_step_post_make_install() {
 	# Remove the vendor sources to save space
 	rm -rf "$TERMUX_PKG_SRCDIR"/vendor
 }
+zphisher.sh
+zphisher
